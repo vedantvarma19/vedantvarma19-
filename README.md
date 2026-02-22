@@ -5,7 +5,7 @@
 - 🔭 I’m currently learning **Web Development, Data Structures & Algorithms, Cybersecurity, Cloud Computing, and System Design**
 - 💻 I love building **web applications, automation tools, scalable backend systems, and security-focused projects**
 - 🚀 Interested in **AI-powered systems, full-stack development, and microservices architecture**
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **vedantvarma617@gmail.com**
 
 ---
 
