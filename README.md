@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Vedant Varma Banner"/>
+<img src="ChatGPT Image Jun 27, 2026, 12_48_27 AM.png" width="100%" alt="Vedant Varma Banner"/>
 
 # 👋 Hi, I'm Vedant Varma
 
