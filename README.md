@@ -1,55 +1,243 @@
-<h1 align="center">Hey, I'm Vedant Varma</h1>
+<div align="center">
 
-<h3 align="center">Computer Science Student | Developer | Cybersecurity & Cloud Enthusiast</h3>
+<img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="Vedant Varma Banner"/>
 
-- 🔭 I’m currently learning **Web Development, Data Structures & Algorithms, Cybersecurity, Cloud Computing, and System Design**
-- 💻 I love building **web applications, automation tools, scalable backend systems, and security-focused projects**
-- 🚀 Interested in **AI-powered systems, full-stack development, and microservices architecture**
-- 📫 Reach me at **vedantvarma617@gmail.com**
+# 👋 Hi, I'm Vedant Varma
 
----
+### 🚀 Backend Developer • Java • Spring Boot • DSA Enthusiast
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+*"Building scalable backend systems, solving algorithmic challenges, and continuously learning modern software engineering."*
 
----
+<p>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
+</p>
 
-## 💻 Tech Stack:
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
 
-### 🖥 Programming & Development:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+</div>
 
 ---
 
-### ⚙ Backend & Frameworks:
-![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+# 👨‍💻 About Me
+
+🎓 **B.Tech — Information Science Engineering**
+
+💻 Passionate about Backend Engineering, Distributed Systems and Problem Solving.
+
+🚀 Currently building production-inspired backend applications using Java and Spring Boot.
+
+🌱 Currently Learning
+
+- Spring Boot
+- Distributed Systems
+- System Design
+- Redis
+- Docker
+- MERN Stack
+
+🎯 Preparing for Software Development Engineer (SDE) Roles.
 
 ---
 
-### 🗄 Databases:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 🛠 Tech Stack
+
+## Languages
+
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+
+## Backend
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge)
+
+## Database
+
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
+
+## Tools
+
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 
 ---
 
-### 🔄 Version Control & Collaboration:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 🚀 Featured Projects
+
+## 🚦 Distributed Rate Limiter
+
+Production-inspired distributed rate limiter built using **Spring Boot**, **Redis**, **Lua Scripts**, and the **Strategy Design Pattern**.
+
+### Highlights
+
+- Sliding Window Algorithm
+- Token Bucket Algorithm
+- Distributed Architecture
+- Redis Atomic Operations
+- Strategy Pattern
+- REST APIs
+- Docker Integration
+- Extensible Design
 
 ---
 
-## 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=false)  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false)  
+## ♻ WasteTrack — Smart Waste Management System
+
+A complete waste collection and management platform designed to streamline municipal waste collection.
+
+### Highlights
+
+- Role Based Authentication
+- Complaint Management
+- Employee Management
+- Vehicle Tracking
+- Analytics Dashboard
+- REST APIs
+- MySQL Database
+- Session Authentication
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=for-the-badge)
+# 📈 Coding Journey
+
+```text
+Java
+      │
+      ▼
+Object Oriented Programming
+      │
+      ▼
+Data Structures & Algorithms
+      │
+      ▼
+Backend Development
+      │
+      ▼
+Spring Boot
+      │
+      ▼
+Distributed Systems
+      │
+      ▼
+System Design
+```
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Spring Boot
+- Redis Internals
+- System Design
+- Distributed Systems
+- MERN Stack
+- Docker
+- Kubernetes
+
+---
+
+# 💡 Interests
+
+- Backend Development
+- Distributed Systems
+- API Design
+- High Performance Applications
+- Clean Architecture
+- Design Patterns
+- Problem Solving
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 LeetCode
+
+I regularly solve Data Structures and Algorithms problems to strengthen problem-solving and interview skills.
+
+Current Focus
+
+- Arrays
+- Binary Search
+- Trees
+- Graphs
+- Dynamic Programming
+- Greedy
+- Sliding Window
+- Backtracking
+
+---
+
+# 🎯 Goals for 2026
+
+- Master Spring Boot
+- Learn System Design
+- Build Production-Level Backend Projects
+- Solve 500+ DSA Problems
+- Contribute to Open Source
+- Secure a Software Engineering Internship
+
+---
+
+# 📬 Let's Connect
+
+📧 Email: YOUR_EMAIL
+
+💼 LinkedIn
+
+https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+
+💻 GitHub
+
+https://github.com/YOUR_GITHUB_USERNAME
+
+🏆 LeetCode
+
+https://leetcode.com/YOUR_LEETCODE_USERNAME
+
+---
+
+<div align="center">
+
+## ⭐ "Code with Curiosity. Build with Purpose. Learn Every Day."
+
+If you like my projects, consider ⭐ starring them!
+
+</div>
